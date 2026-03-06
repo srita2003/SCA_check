@@ -2,7 +2,7 @@ name: Python SCA Scan
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   dependency-check:
